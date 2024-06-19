@@ -1,0 +1,28 @@
+.Joke{
+    background-color: aqua;
+    color: rgb(117, 114, 114);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    width: 700px;
+
+    .id{
+        font-size: 1.5rem;
+        color: black;
+        font-weight: bold;
+  
+    }
+    .data{
+        font-size: 1.2rem;
+        color: rgb(117, 114, 114);
+        
+ 
+    }
+    .rating{
+        font-size: 1rem;
+        font-weight: bolder;
+        color: rgb(219, 64, 64);
+       
+    }
+}
